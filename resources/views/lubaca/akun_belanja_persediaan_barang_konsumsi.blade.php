@@ -72,49 +72,65 @@
                 <tbody style="font-size: 13px;">
                     <tr>
                         <td>1</td>
-                        <td>KAK</td>
+                        <td>
+                            <a href="{{ asset('dokumen_lubaca/KAK.docx') }}" download class="text-decoration-underline">KAK</a>
+                        </td>
                         <td class="text-center">√</td>
                         <td></td>
                     </tr>
                     <tr>
                         <td>2</td>
-                        <td>Form Permintaan/nota dinas <br> (SM ke PPK)</td>
+                        <td>
+                            <a href="{{ asset('dokumen_lubaca/Form Permintaan nota dinas <br> (SM ke PPK).docx') }}" download class="text-decoration-underline">Form Permintaan/nota dinas <br> (SM ke PPK)</a>
+                        </td>
                         <td class="text-center">√</td>
                         <td></td>
                     </tr>
                      <tr>
                         <td>3</td>
-                        <td>Kuitansi bermaterai</td>
+                        <td>
+                            <a href="{{ asset('dokumen_lubaca/Kuitansi bermaterai.docx') }}" download class="text-decoration-underline">Kuitansi bermaterai</a>
+                        </td>
                         <td class="text-center">√</td>
                         <td></td>
                     </tr>
                      <tr>
                         <td>4</td>
-                        <td>Nota Pembelian/tanda bukti</td>
+                        <td>
+                            <a href="{{ asset('dokumen_lubaca/Nota Pembelian atau tanda bukti.docx') }}" download class="text-decoration-underline">Nota Pembelian/tanda bukti</a>
+                        </td>
                         <td class="text-center">√</td>
                         <td></td>
                     </tr>
                      <tr>
                         <td>5</td>
-                        <td>Faktur pajak</td>
+                        <td>
+                            <a href="{{ asset('dokumen_lubaca/Faktur pajak.docx') }}" download class="text-decoration-underline">Faktur pajak</a>
+                        </td>
                         <td class="text-center">√</td>
                         <td></td>
                     </tr>
                      <tr>
                         <td>6</td>
-                        <td>SSP PPN (11%) dan PPh 22 (1,5 %)</td>
+                        <td>
+                            <a href="{{ asset('dokumen_lubaca/SSP PPN (11%) dan PPh 22 (1,5 %).docx') }}" download class="text-decoration-underline">SSP PPN (11%) dan PPh 22 (1,5 %)</a>
+                        </td>
                         <td class="text-center">√</td>
                         <td></td>
                     </tr>
                      <tr>
                         <td>7</td>
-                        <td>BAST</td>
+                        <td>
+                            <a href="{{ asset('dokumen_lubaca/BAST.docx') }}" download class="text-decoration-underline">BAST</a>
+                        </td>
                         <td class="text-center">√</td>
                         <td></td>
                     </tr>
                      <tr>
                         <td>8</td>
-                        <td>Daftar alokasi (tanda terima)</td>
+                        <td>
+                            <a href="{{ asset('dokumen_lubaca/Daftar alokasi (tanda terima).docx') }}" download class="text-decoration-underline">Daftar alokasi (tanda terima)</a>
+                        </td>
                         <td class="text-center">√</td>
                         <td></td>
                     </tr>

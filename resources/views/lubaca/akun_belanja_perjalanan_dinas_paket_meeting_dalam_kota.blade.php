@@ -74,7 +74,9 @@
                 <tbody style="font-size: 13px;">
                     <tr>
                         <td class="text-center">1</td>
-                        <td>KAK</td>
+                        <td>
+                            <a href="{{ asset('dokumen_lubaca/KAK.docx') }}" download class="text-decoration-underline">KAK</a>
+                        </td>
                         <td class="text-center">√</td>
                         <td class="text-center">√</td>
                         <td class="text-center">√</td>
@@ -82,7 +84,9 @@
                     </tr>
                     <tr>
                         <td class="text-center">2</td>
-                        <td>Form Permintaan Honor</td>
+                        <td>
+                            <a href="{{ asset('dokumen_lubaca/Form Permintaan Honor.docx') }}" download class="text-decoration-underline">Form Permintaan Honor</a>
+                        </td>
                         <td class="text-center">√</td>
                         <td class="text-center">√</td>
                         <td class="text-center">√</td>
@@ -90,7 +94,9 @@
                     </tr>
                     <tr>
                         <td class="text-center">3</td>
-                        <td>Daftar Hadir Peserta <br> (termasuk panitia, Innas/Inda)</td>
+                        <td>
+                            <a href="{{ asset('dokumen_lubaca/Daftar Hadir Peserta.docx') }}" download class="text-decoration-underline">Daftar Hadir Peserta <br> (termasuk panitia, Innas/Inda)</a>
+                        </td>
                         <td class="text-center">√</td>
                         <td class="text-center">-</td>
                         <td class="text-center">-</td>
@@ -98,7 +104,9 @@
                     </tr>
                     <tr>
                         <td class="text-center">4</td>
-                        <td>Daftar Real Aktivitas Jam Mengajar Innas/Inda <br> setiap sesi per hari</td>
+                        <td>
+                            <a href="{{ asset('dokumen_lubaca/Daftar Real Aktivitas.docx') }}" download class="text-decoration-underline">Daftar Real Aktivitas Jam Mengajar Innas/Inda <br> setiap sesi per hari</a>
+                        </td>
                         <td class="text-center">√</td>
                         <td class="text-center">-</td>
                         <td class="text-center">-</td>
@@ -106,7 +114,9 @@
                     </tr>
                     <tr>
                         <td class="text-center">5</td>
-                        <td> SK KPA tentang honor/ Surat Tugas</td>
+                        <td> 
+                            <a href="{{ asset('dokumen_lubaca/SK KPA.docx') }}" download class="text-decoration-underline">SK KPA tentang honor/ Surat Tugas</a>
+                        </td>
                         <td class="text-center">√</td>
                         <td class="text-center">√</td>
                         <td class="text-center">√</td>
@@ -114,7 +124,9 @@
                     </tr>
                     <tr>
                         <td class="text-center">6</td>
-                        <td>  Surat Kontrak</td>
+                        <td>  
+                            <a href="{{ asset('dokumen_lubaca/Surat Kontrak.docx') }}" download class="text-decoration-underline">Surat Kontrak</a>
+                        </td>
                         <td class="text-center">√</td>
                         <td class="text-center">-</td>
                         <td class="text-center">-</td>
@@ -122,7 +134,9 @@
                     </tr>
                     <tr>
                         <td class="text-center">7</td>
-                        <td>Surat pernyataan kesanggupan melaksanakan <br>pendataan</td>
+                        <td>
+                            <a href="{{ asset('dokumen_lubaca/Surat pernyataan kesanggupan.docx') }}" download class="text-decoration-underline">Surat pernyataan kesanggupan melaksanakan <br>pendataan</a>
+                        </td>
                         <td class="text-center">√</td>
                         <td class="text-center">√</td>
                         <td class="text-center">-</td>
@@ -130,7 +144,9 @@
                     </tr>
                     <tr>
                         <td class="text-center">8</td>
-                        <td> Laporan innas/Inda</td>
+                        <td> 
+                            <a href="{{ asset('dokumen_lubaca/Laporan innasInda.docx') }}" download class="text-decoration-underline">Laporan innas/Inda</a>
+                        </td>
                         <td class="text-center">√</t√d>
                         <td class="text-center">-</td>
                         <td class="text-center">-</td>
@@ -138,7 +154,9 @@
                     </tr>
                     <tr>
                         <td class="text-center">9</td>
-                        <td style="border: 1px solid #ddd;"> Rekapitulasi Belanja Honor</td>
+                        <td style="border: 1px solid #ddd;"> 
+                            <a href="{{ asset('dokumen_lubaca/Rekapitulasi Belanja Honor.docx') }}" download class="text-decoration-underline">Rekapitulasi Belanja Honor</a>
+                        </td>
                         <td class="text-center" style="border: 1px solid #ddd;">√</td>
                         <td class="text-center" style="border: 1px solid #ddd;">√</td>
                         <td class="text-center" style="border: 1px solid #ddd;">√</td>
@@ -146,7 +164,9 @@
                     </tr>
                     <tr>
                         <td class="text-center">10</td>
-                        <td style="border: 1px solid #ddd;">BAST Penyelesaian pekerjaann</td>
+                        <td style="border: 1px solid #ddd;">
+                            <a href="{{ asset('dokumen_lubaca/BAST Penyelesaian pekerjaan.docx') }}" download class="text-decoration-underline">BAST Penyelesaian pekerjaan</a>
+                        </td>
                         <td class="text-center" style="border: 1px solid #ddd;">-</td>
                         <td class="text-center" style="border: 1px solid #ddd;">-</td>
                         <td class="text-center" style="border: 1px solid #ddd;">√</td>
@@ -154,7 +174,9 @@
                     </tr>
                     <tr>
                         <td class="text-center">11</td>
-                        <td style="border: 1px solid #ddd;">SSP PPh Pasal 21</td>
+                        <td style="border: 1px solid #ddd;">
+                            <a href="{{ asset('dokumen_lubaca/SSP PPh Pasal 21.docx') }}" download class="text-decoration-underline">SSP PPh Pasal 21</a>
+                        </td>
                         <td class="text-center" style="border: 1px solid #ddd;">√</td>
                         <td class="text-center" style="border: 1px solid #ddd;">√</td>
                         <td class="text-center" style="border: 1px solid #ddd;">√</td>
@@ -162,7 +184,9 @@
                     </tr>
                     <tr>
                         <td class="text-center">12</td>
-                        <td style="border: 1px solid #ddd;"> Laporan Pelatihan Sudah Upload</td>
+                        <td style="border: 1px solid #ddd;"> 
+                            <a href="{{ asset('dokumen_lubaca/Laporan Pelatihan.docx') }}" download class="text-decoration-underline">Laporan Pelatihan Sudah Upload</a>
+                        </td>
                         <td class="text-center" style="border: 1px solid #ddd;">-</td>
                         <td class="text-center" style="border: 1px solid #ddd;">-</td>
                         <td class="text-center" style="border: 1px solid #ddd;">√</td>
@@ -170,7 +194,9 @@
                     </tr>
                     <tr>
                         <td class="text-center">13</td>
-                        <td style="border: 1px solid #ddd;">  Dokumentasi Pencacahan Sudah Upload</td>
+                        <td style="border: 1px solid #ddd;">  
+                            <a href="{{ asset('dokumen_lubaca/Dokumentasi Pencacahan.docx') }}" download class="text-decoration-underline">Dokumentasi Pencacahan Sudah Upload</a>
+                        </td>
                         <td class="text-center" style="border: 1px solid #ddd;">-</td>
                         <td class="text-center" style="border: 1px solid #ddd;">√</td>
                         <td class="text-center" style="border: 1px solid #ddd;">√</td>
@@ -178,7 +204,9 @@
                     </tr>
                      <tr>
                         <td class="text-center">14</td>
-                        <td style="border: 1px solid #ddd;">Dokumentasi Pengawasan atau <br> Pemeriksaan Sudah Upload</td>
+                        <td style="border: 1px solid #ddd;">
+                            <a href="{{ asset('dokumen_lubaca/Dokumentasi Pengawasan.docx') }}" download class="text-decoration-underline">Dokumentasi Pengawasan atau <br> Pemeriksaan Sudah Upload</a>
+                        </td>
                         <td class="text-center" style="border: 1px solid #ddd;">-</td>
                         <td class="text-center" style="border: 1px solid #ddd;">√</td>
                         <td class="text-center" style="border: 1px solid #ddd;">√</td>
@@ -186,7 +214,9 @@
                     </tr>
                     <tr>
                         <td class="text-center">15</td>
-                        <td style="border: 1px solid #ddd;">Dokumentasi Supervisi Sudah Upload</td>
+                        <td style="border: 1px solid #ddd;">
+                            <a href="{{ asset('dokumen_lubaca/Dokumentasi Supervisi.docx') }}" download class="text-decoration-underline">Dokumentasi Supervisi Sudah Upload</a>
+                        </td>
                         <td class="text-center" style="border: 1px solid #ddd;">-</td>
                         <td class="text-center" style="border: 1px solid #ddd;">√</td>
                         <td class="text-center" style="border: 1px solid #ddd;">√</td>
@@ -194,7 +224,9 @@
                     </tr>
                      <tr>
                         <td class="text-center">16</td>
-                        <td style="border: 1px solid #ddd;"> Bukti Pembayaran Bank atau <br> Kantor Pos Kepada Petugas</td>
+                        <td style="border: 1px solid #ddd;"> 
+                            <a href="{{ asset('dokumen_lubaca/Bukti Pembayaran.docx') }}" download class="text-decoration-underline">Bukti Pembayaran Bank atau <br> Kantor Pos Kepada Petugas</a>
+                        </td>
                         <td class="text-center" style="border: 1px solid #ddd;">√</td>
                         <td class="text-center" style="border: 1px solid #ddd;">√</td>
                         <td class="text-center" style="border: 1px solid #ddd;">√</td>
