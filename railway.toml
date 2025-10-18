@@ -1,13 +1,6 @@
+
 [build]
-builder = "nixpacks"
-buildCommand = """
-composer install --no-interaction --prefer-dist --optimize-autoloader
-npm install --force
-npm run build || npm run prod || echo 'No frontend build'
-"""
+builder = "Docker"
 
-[build.env]
-NIXPACKS_PHP_EXTENSIONS = "gd mysqli pdo pdo_mysql"
-
-[start]
-cmd = "php artisan migrate --force && php artisan serve --host=0.0.0.0 --port=8080"
+[deploy]
+restartPolicyType = "never"
