@@ -1,6 +1,5 @@
-
 [build]
-builder = "Docker"
+builder = "DOCKERFILE"
 
 [deploy]
 restartPolicyType = "never"
