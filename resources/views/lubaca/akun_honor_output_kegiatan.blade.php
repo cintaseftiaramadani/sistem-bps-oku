@@ -54,7 +54,7 @@
         <script>
             const downloadBtn = document.getElementById('downloadBtn');
             downloadBtn.addEventListener('click', () => {
-                const pdfPath = encodeURI('/dokumen/akun_belanja_bahan.pdf');
+                const pdfPath = encodeURI('/dokumen_lubaca/pdf/akun_honor_output_kegiatan.pdf');
                 window.open(pdfPath, '_blank');
             });
         </script>
